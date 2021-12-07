@@ -1,0 +1,16 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "@nativescript/core": "~8.1.1",
+    "@nativescript/theme": "~2.3.0"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.1.1",
+    "@nativescript/webpack": "~5.0.0"
+  },
+  "gitHead": "20a65d338ae8f8911087ab6615b89363f864b07b",
+  "readme": "NativeScript Application",
+  "main": "./app/app.js"
+}
